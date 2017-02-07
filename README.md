@@ -31,7 +31,7 @@ All interested parties are encouraged to become involved with the interest group
 
 Please contact the convener or any core member about how to become involved. 
 
-### Current Task groups
+### Current Task Groups
 
 Plinian Core - https://github.com/tdwg/PlinianCore
 
