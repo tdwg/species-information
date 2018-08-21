@@ -37,4 +37,6 @@ Plinian Core - https://github.com/tdwg/PlinianCore
 
 Invasive Species - https://github.com/tdwg/gisin
 
+Invasive Organism Information - https://github.com/tdwg/species-information/tree/master/invasive-organisms
+
 
