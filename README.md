@@ -9,7 +9,7 @@ Real Jardín Botánico - CSIC
 Plaza de Murillo2 
 28014 Madrid, Spain
 
-email Francisco Pando  pando [AT] rjb [dot] csic [dot] es
+email:  pando[AT]rjb[dot]csic[dot]es
 
 ### Summary
 
