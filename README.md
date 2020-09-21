@@ -19,7 +19,7 @@ By "Species Information" we refer to all kinds of properties or traits related t
 
 Having this focus, this interest group will touch upon and interact with other TDWG's groups such as the Biological Descriptions IG or the Imaging IG.
 
-Sharing species information is not only about exchanging information among peers; how to present "science-grade" to a non-specialize public in an effective way is a concern of the founding members of this group and also an area for discussion here. 
+Sharing species information is not only about exchanging information among peers; how to present "science-grade" content to a non-specialize public in an effective way is a concern of the founding members of this group and also an area for discussion here. 
 
 This group, open to all interested parties, originates from mainly from two current initiatives "Encyclopedia of Life" and "Plinian Core Group".
 
